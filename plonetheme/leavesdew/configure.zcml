@@ -9,9 +9,17 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="Plone 4 Theme: Leavesdew"
+      title="plonetheme.leavesdew"
       directory="profiles/default"
       description="Installs the plonetheme.leavesdew package"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+  <genericsetup:registerProfile
+      name="uninstall"
+      title="plonetheme.leavesdew: Uninstall profile for Plone 4 Diazo Theme"
+      directory="profiles/uninstall"
+      description="Uninstalls the plonetheme.leavesdew package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
