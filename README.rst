@@ -25,7 +25,7 @@ Zip file
 
 If you are an end user, you might enjoy installation via zip file import.
 
-1. Download the zip file: https://raw.github.com/collective/plonetheme.leavesdew/master/leavesdew.zip
+1. Download a `zip file <https://raw.github.com/collective/plonetheme.leavesdew/master/leavesdew.zip>`_.
 
 2. Import the theme from the Diazo theme control panel.
 
