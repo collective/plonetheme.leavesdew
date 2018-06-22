@@ -17,7 +17,7 @@
 
   <genericsetup:registerProfile
       name="uninstall"
-      title="plonetheme.leavesdew: Uninstall profile for Plone 4 Diazo Theme"
+      title="plonetheme.leavesdew Uninstall"
       directory="profiles/uninstall"
       description="Uninstalls the plonetheme.leavesdew package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
